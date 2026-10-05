@@ -2,7 +2,7 @@
 
 A browser-based brain-training mini-game suite — **8 quick focus games** plus a **real-time 2-player race mode**. Shipped as a single, self-contained HTML file: no build step, no framework, no backend.
 
-**▶ Live demo:** https://YOUR-USERNAME.github.io/YOUR-REPO/
+**▶ Live demo:** [https://YOUR-USERNAME.github.io/YOUR-REPO/](https://ayushpal30.github.io/APFocus_Reset/)
 
 ---
 
